@@ -1,0 +1,4 @@
+interface:
+  display_name: "Share a sample on CodePen"
+  short_description: "Prepare a verified sample as an unsaved CodePen"
+  default_prompt: "Use $codepen-share to prepare these verified HTML, CSS, and JavaScript files as an unsaved CodePen."

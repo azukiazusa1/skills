@@ -1,0 +1,4 @@
+interface:
+  display_name: "Write an azukiazusa-style article"
+  short_description: "Draft validated technical articles in azukiazusa's style"
+  default_prompt: "Use $write-blog-article to research, validate, and draft a Japanese technical article in azukiazusa's house style."

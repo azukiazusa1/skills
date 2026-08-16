@@ -1,0 +1,4 @@
+interface:
+  display_name: "Review an azukiazusa-style article"
+  short_description: "Review Japanese technical articles against azukiazusa's style"
+  default_prompt: "Use $article-review to review this Japanese technical article against azukiazusa's house style."

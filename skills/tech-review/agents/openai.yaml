@@ -1,0 +1,4 @@
+interface:
+  display_name: "Review technical accuracy"
+  short_description: "Check technical claims, evidence, and code samples"
+  default_prompt: "Use $tech-review to review this article for technical accuracy, evidence, and code quality."
